@@ -2,4 +2,6 @@
 
 ## Description of my first repo creation.
 
-Intro
+Hi Everyone !
+
+Welcome to my repo.
